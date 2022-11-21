@@ -9,6 +9,6 @@ resource "aws_instance" Fyneby {
     }
     
     tags = {
-        Name = "airbnbwebserver"
+        Name = "airbnbwebserver-instance"
     }
 }
